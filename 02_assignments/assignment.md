@@ -45,7 +45,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 5) Lucky - ![image](https://github.com/Navneettc/shell/assets/167141238/4fafd7f8-35c5-448a-8a4e-d1dc7260a1d1)
 
 6) Darkness - ![image](https://github.com/Navneettc/shell/assets/167141238/6adc1623-cc9a-4e81-aa74-ba98465f4617)
-
+ 
 
 ```
 
